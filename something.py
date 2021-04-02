@@ -1,3 +1,3 @@
 print("Hello")
 
-print("Kolejny commit")
+print("Nowy commit")
